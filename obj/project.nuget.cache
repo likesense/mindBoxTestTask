@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fPkER5w7BUA1kKnR5g5Lx9GF00cXGaclpiOzOuEtHSlnFoNdW3XkXcAwsPXj4hdqTiV5fKS6PYK+pl4ywQM5MQ==",
+  "success": true,
+  "projectFilePath": "D:\\edusharp\\mindboxtest\\Geometry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\likes\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\likes\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\likes\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

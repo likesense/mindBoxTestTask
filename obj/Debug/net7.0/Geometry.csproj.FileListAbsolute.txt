@@ -1,0 +1,12 @@
+D:\edusharp\mindboxtest\bin\Debug\net7.0\Geometry.deps.json
+D:\edusharp\mindboxtest\bin\Debug\net7.0\Geometry.dll
+D:\edusharp\mindboxtest\bin\Debug\net7.0\Geometry.pdb
+D:\edusharp\mindboxtest\obj\Debug\net7.0\Geometry.csproj.AssemblyReference.cache
+D:\edusharp\mindboxtest\obj\Debug\net7.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+D:\edusharp\mindboxtest\obj\Debug\net7.0\Geometry.AssemblyInfoInputs.cache
+D:\edusharp\mindboxtest\obj\Debug\net7.0\Geometry.AssemblyInfo.cs
+D:\edusharp\mindboxtest\obj\Debug\net7.0\Geometry.csproj.CoreCompileInputs.cache
+D:\edusharp\mindboxtest\obj\Debug\net7.0\Geometry.dll
+D:\edusharp\mindboxtest\obj\Debug\net7.0\refint\Geometry.dll
+D:\edusharp\mindboxtest\obj\Debug\net7.0\Geometry.pdb
+D:\edusharp\mindboxtest\obj\Debug\net7.0\ref\Geometry.dll
